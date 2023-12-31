@@ -1,0 +1,6 @@
+.projectList {
+  flex-direction: column;
+  align-items: center;
+  width: 70%;
+  justify-content: center;
+}
